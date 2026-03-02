@@ -16,12 +16,12 @@ Post these updates, the user runs docker compose to bring up the application, ad
 - Frontend (Web) – running on Node.js environment with npm package manager.
 - Backend (API) – running on Node.js environment with npm package manager.
 - Database (DB) – running Mongo DB program.
-- 
+   
 The name of the Application is “Wanderlust - Your Ultimate Travel Blog”.
 
 
-**High Level Diagram:**
 
+**High Level Diagram:**
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 3-Tier Application Architecture
@@ -35,4 +35,10 @@ The name of the Application is “Wanderlust - Your Ultimate Travel Blog”.
 - Create an EC2 Instance in AWS Cloud Infrastructure.
 - To Clone 3-Tier-Application Source Code from Github.
 - To create Docker file for frontend, backend and to create Docker-Compose file for complete application.
-- 
+- To update the environment files (.env.sample) for correct host URL.
+- To update the security group settings of Host Machine (EC2 Instance) to allow the traffic on specific ports on which app services are running.
+- Now all the settings are complete, perform the docker-compose up command to run the containers and bring up all the services for real-time usage.
+- To verify the deployment of 3-tier-application by accessing the application via public-ip of Host machine.
+
+# Result Screenshots:
+------------------------------------------------------------------------------------------------------------------------------------------------------
