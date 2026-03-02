@@ -58,8 +58,10 @@ On any web browser, hit the URL:    http://54.166.95.96:5173/
 Now the Application is accessible, please find below the screenshot:
 
 <img width="965" height="561" alt="image" src="https://github.com/user-attachments/assets/931dee0a-56dc-4e2e-8e58-32ecd9e8861f" />
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="956" height="593" alt="image" src="https://github.com/user-attachments/assets/6ec50609-8792-4739-946c-d6907a1b3351" />
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="949" height="618" alt="image" src="https://github.com/user-attachments/assets/fdaa5c9e-ff19-4aa6-8264-3bfc00316917" />
 
