@@ -21,7 +21,7 @@ The name of the Application is “Wanderlust - Your Ultimate Travel Blog”.
 
 
 
-**High Level Diagram:**
+**High Level Project Diagram:**
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 3-Tier Application Architecture
@@ -40,7 +40,7 @@ The name of the Application is “Wanderlust - Your Ultimate Travel Blog”.
 - Now all the settings are complete, perform the docker-compose up command to run the containers and bring up all the services for real-time usage.
 - To verify the deployment of 3-tier-application by accessing the application via public-ip of Host machine.
 
-# Result Screenshots:
+# Output Result Screenshots:
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 All the three containers for frontend, backend and mongo DB got created successfully:
